@@ -1,0 +1,6 @@
+Airline Passenger Forecasting
+============================
+
+MAE  : 48.0720
+MSE  : 4176.2224
+RMSE : 64.6237
